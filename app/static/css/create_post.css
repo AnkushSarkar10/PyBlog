@@ -1,0 +1,30 @@
+.content-section {
+    background: #EFEFF0;
+    padding: 10px 20px;
+    border: 2px solid #48708F;
+    border-radius: 5px;
+    -webkit-box-shadow: 10px 10px 9px -4px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 9px -4px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 9px -4px rgba(0,0,0,0.75);
+    overflow-wrap: break-word !important;
+    word-wrap: break-word !important;
+}
+#main{
+    padding-top: 40px;
+}
+legend{
+    color: #3C6382;
+}
+
+.btn-outline-info {
+    margin-left: 10px;
+    color: rgb(84, 121, 151);
+    border-color: rgb(84, 121, 151);
+}
+.btn-outline-info:hover{
+    background-color: rgb(84, 121, 151);
+}
+.form-control:focus{
+    border-color: rgb(84, 121, 151) !important;
+    box-shadow: 0 0 0 0.1rem rgba(84, 121, 151, 0.432)!important;
+}
