@@ -1,6 +1,8 @@
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 from flask_login import LoginManager
+import click
+from flask.cli import with_appcontext
 import os
 
 # os.environ['OAUTHLIB_INSECURE_TRANSPORT'] = '1'
@@ -19,5 +21,12 @@ login_manager = LoginManager(app)
 login_manager.login_view = 'twitter.login'
 # login_manager.login_view = 'login'
 # login_manager.login_message_category = 'info'
+
+@click.command(name='create_tables')
+@with_appcontext
+def create_tables():
+    db.create_all()
+
+app.cli.add_command(create_tables)
 
 from app import views
