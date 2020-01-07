@@ -16,7 +16,7 @@ other dependencies are in the _requirements.txt_
 We used [Heroku](https://www.heroku.com/) for hosting our site.
 
 ## Code
-[views.py](app/run.py)
+[views.py](app/views.py)
 
 ## Credit
 __Ankush Sarkar__
