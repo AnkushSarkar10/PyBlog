@@ -26,6 +26,6 @@ We used [Heroku](https://www.heroku.com/) for hosting our site.
 
 ## Credit
 __Ankush Sarkar__
-__Soham Mondal__
-__Alan Thomas__
-__Tanuj Adhikary__
+__Soham Mondal__ </br>
+__Alan Thomas__ </br>
+__Tanuj Adhikary__ </br>
