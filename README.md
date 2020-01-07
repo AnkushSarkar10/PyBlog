@@ -25,7 +25,7 @@ We used [Heroku](https://www.heroku.com/) for hosting our site.
 * [run.py](run.py) - It runs the app.
 
 ## Credit
-__Ankush Sarkar__
+__Ankush Sarkar__ </br>
 __Soham Mondal__ </br>
 __Alan Thomas__ </br>
 __Tanuj Adhikary__ </br>
