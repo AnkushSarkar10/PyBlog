@@ -1,5 +1,7 @@
 # Py-blog
 
+[The app](https://py-bl0g.herokuapp.com/home)
+
 ## Built With
 
 * [Flask](http://flask.palletsprojects.com/en/1.1.x/) - The python web framework used
@@ -7,4 +9,17 @@
 * [Flask-Dance](https://flask-dance.readthedocs.io/en/latest/) and [Flask-Login](https://flask-login.readthedocs.io/en/latest/) - Used to create the login system
 * [Flask-Wtf](https://flask-wtf.readthedocs.io/en/stable/) - For The web forms
 
-other dependencies are in _requirements.txt_
+other dependencies are in the _requirements.txt_
+
+## Deployment
+
+We used [Heroku](https://www.heroku.com/) for hosting our site.
+
+## Code
+[views.py](app/run.py)
+
+## Credit
+__Ankush Sarkar__
+__Soham Mondal__
+__Alan Thomas__
+__Tanuj Adhikary__
