@@ -23,9 +23,3 @@ We used [Heroku](https://www.heroku.com/) for hosting our site.
 * [Templates](app/html) - This contains all the __html__ code.
 * [Static](app/Static/css) -  This contains all the __css__ code.
 * [run.py](run.py) - It runs the app.
-
-## Credits
-* _Ankush Sarkar_ </br>
-* _Soham Mondal_ </br>
-* _Alan Thomas_ </br>
-* _Tanuj Adhikary_ </br>
