@@ -14,7 +14,7 @@ other dependencies are in the _requirements.txt_.
 
 ## Deployment
 
-We used [Heroku](https://www.heroku.com/) for hosting our site.
+I used [Heroku](https://www.heroku.com/) for hosting this site.
 
 ## Code
 * [views.py](app/views.py) - This has all the routs to the differnt sections of the site, and also the login infos.
