@@ -1,6 +1,9 @@
 # Py-blog
 
+A CRUD bloging app
+
 [The app](https://py-bl0g.herokuapp.com/home)
+
 
 ## Built With
 
